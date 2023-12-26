@@ -115,7 +115,7 @@ export default function Reportcrime() {
           <div className="btn_cont">
             <button
               type="submit"
-              className="bg-rose-400 px-4 text-gray-600 py-2 hover:bg-rose-600 hover:scale-110 active:scale-95"
+              className="bg-green-400 px-4 text-white py-2 hover:bg-lime-400 hover:scale-110 active:scale-95"
             >
               Submit
             </button>
