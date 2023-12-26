@@ -1,0 +1,23 @@
+.app {
+    background-color: antiquewhite;
+}
+.landing-header {
+    font-family: 'Work Sans', sans-serif;
+}
+.crime-img {
+    display: flex;
+    margin-top: 2cm;
+}
+.describe {
+    width: 30cm;
+    margin-left: 2cm;
+}
+.countup {
+    margin-left: 9cm;
+}
+.crime-pic {
+    border-radius: 70px;
+    width: 15cm;
+    height: 10cm;
+    
+}
